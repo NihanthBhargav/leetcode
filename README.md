@@ -27,6 +27,7 @@
 | [0027-remove-element](https://github.com/NihanthBhargav/leetcode/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/NihanthBhargav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NihanthBhargav/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
