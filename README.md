@@ -28,10 +28,12 @@
 | [0073-set-matrix-zeroes](https://github.com/NihanthBhargav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NihanthBhargav/leetcode/tree/master/0027-remove-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
