@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/NihanthBhargav/leetcode/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NihanthBhargav/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -59,6 +60,7 @@
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/NihanthBhargav/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
