@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/NihanthBhargav/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/NihanthBhargav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0290-word-pattern) |
@@ -23,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0290-word-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0290-word-pattern) |
 ## Array
 |  |
