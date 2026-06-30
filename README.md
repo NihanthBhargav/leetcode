@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/NihanthBhargav/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
 | [0290-word-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
@@ -70,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/NihanthBhargav/leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
