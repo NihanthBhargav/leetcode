@@ -9,12 +9,14 @@
 | [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/NihanthBhargav/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NihanthBhargav/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NihanthBhargav/leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
