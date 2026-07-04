@@ -12,6 +12,7 @@
 | [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/NihanthBhargav/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/NihanthBhargav/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0027-remove-element](https://github.com/NihanthBhargav/leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/NihanthBhargav/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihanthBhargav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -66,6 +68,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NihanthBhargav/leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/NihanthBhargav/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
