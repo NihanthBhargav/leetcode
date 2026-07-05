@@ -35,6 +35,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
+| [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
 | [0290-word-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
