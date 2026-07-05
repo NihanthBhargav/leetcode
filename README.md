@@ -18,6 +18,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/NihanthBhargav/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NihanthBhargav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/NihanthBhargav/leetcode/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/NihanthBhargav/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NihanthBhargav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NihanthBhargav/leetcode/tree/master/0414-third-maximum-number) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NihanthBhargav/leetcode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/NihanthBhargav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/NihanthBhargav/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NihanthBhargav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NihanthBhargav/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NihanthBhargav/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NihanthBhargav/leetcode/tree/master/0367-valid-perfect-square) |
