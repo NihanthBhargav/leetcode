@@ -19,6 +19,7 @@
 | [0029-divide-two-integers](https://github.com/NihanthBhargav/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/NihanthBhargav/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NihanthBhargav/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/NihanthBhargav/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/NihanthBhargav/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -105,4 +106,5 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
+| [0338-counting-bits](https://github.com/NihanthBhargav/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
