@@ -39,6 +39,7 @@
 | [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
 | [0290-word-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/NihanthBhargav/leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Array
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 | ------- |
 | [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
 | [0338-counting-bits](https://github.com/NihanthBhargav/leetcode/tree/master/0338-counting-bits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/NihanthBhargav/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
