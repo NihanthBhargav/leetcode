@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/NihanthBhargav/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/NihanthBhargav/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/NihanthBhargav/leetcode/tree/master/0043-multiply-strings) |
 | [0087-scramble-string](https://github.com/NihanthBhargav/leetcode/tree/master/0087-scramble-string) |
