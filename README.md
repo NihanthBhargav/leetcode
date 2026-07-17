@@ -117,4 +117,5 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/NihanthBhargav/leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/NihanthBhargav/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
